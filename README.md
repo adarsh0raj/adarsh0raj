@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **any latest tech (AI, LLMs, RUST)**
 
-- 👨‍💻 All of my projects are available at [adarsh0raj.github.io](adarsh0raj.github.io)
+- 👨‍💻 All of my projects are available on Github.
 
 - 💬 Ask me about **Full Stack Development**
 
