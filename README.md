@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh</h1>
-<h3 align="center">Full Stack and Python Developer from India</h3>
+<h3 align="center">Software Developer and Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh0raj&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh0raj" /> </p>
 
@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working at **Microsoft**
 
-- 🌱 I’m currently learning **Rust, LLMs, Game Dev**
+- 🌱 I’m currently learning **Softwares and How they work**
 
-- 👯 I’m looking to collaborate on **any latest tech (AI, LLMs, RUST)**
+- 👯 I’m looking to collaborate on **any latest tech (AI, LLMs, Low Level Langs)**
 
 - 👨‍💻 All of my projects are available on Github.
 
-- 💬 Ask me about **Full Stack Development**
+- 💬 Ask me about **My Journey and Development**
 
 - 📫 How to reach me **rajadarsh2602@gmail.com**
 
